@@ -10,3 +10,5 @@
     - [Lens Catalog for AWS Well-Architected Tool](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
     - [Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
     - [Generative AI Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+- [Evaluate model performance using another LLM as a judge](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-judge.html)
+- [Prompt templates for the Agentcore evaluators](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
