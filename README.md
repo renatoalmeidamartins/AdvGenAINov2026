@@ -12,3 +12,7 @@
     - [Generative AI Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
 - [Evaluate model performance using another LLM as a judge](https://docs.aws.amazon.com/bedrock/latest/userguide/evaluation-judge.html)
 - [Prompt templates for the Agentcore evaluators](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+- Common model provider APIs
+    - [Anthropic's Messages](https://platform.claude.com/docs/en/api/messages)
+    - [OpenAI's responses](https://developers.openai.com/api/reference/resources/responses/methods/create)
+    - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
