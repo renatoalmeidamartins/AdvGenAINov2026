@@ -24,3 +24,5 @@
 - [Inference profiles in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles.html) - used for cross-region inference (and application-level inference profiles)
 - [Disaster recovery options in the cloud](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
 - [Prompt caching in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
+- [LangChain Memory](https://docs.langchain.com/oss/python/concepts/memory)
+- [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
