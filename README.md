@@ -26,3 +26,14 @@
 - [Prompt caching in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [LangChain Memory](https://docs.langchain.com/oss/python/concepts/memory)
 - [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+
+- RAG - Retrieval Augmented Generation
+    - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+    - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+    - [What is a Vector Database?](https://aws.amazon.com/what-is/vector-databases/)
+    - [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/), announced in July 2025. Became GA in December 2025, "[Amazon S3 Vectors now generally available with increased scale and performance](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/)"
+    - [Vector projection visualizer](https://projector.tensorflow.org/)
+    - [Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Service Managed Cluster as vector store](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-amazon-opensearch-service-managed-cluster-as-vector-store/)
+    - [Choose the k-NN algorithm for your billion-scale use case with OpenSearch](https://aws.amazon.com/blogs/big-data/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch/)
+    - [Build semantic search with native vector support in Amazon DynamoDB](https://aws.amazon.com/blogs/database/build-semantic-search-with-native-vector-support-in-amazon-dynamodb/)
+    - [Amazon DynamoDB now supports real-time vector search at any scale](https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/)
