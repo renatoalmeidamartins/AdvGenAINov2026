@@ -16,7 +16,7 @@
 - Common model provider APIs
     - [Anthropic's Messages](https://platform.claude.com/docs/en/api/messages)
     - [OpenAI's responses](https://developers.openai.com/api/reference/resources/responses/methods/create)
-    - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
+    - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/) - this sits under the "bedrock-mantle" endpoint, and **no boto3 client is required**. You just call using REST API.
 - [Deploying and Managing Application Configurations using AWS AppConfig](https://aws.amazon.com/blogs/devops/deploying-and-managing-application-configurations-using-aws-appconfig/)
 - [Langchain](https://docs.langchain.com/oss/python/langchain/models#google-gemini)'s example of how easy it can be to swap model providers.
 - Intelligent prompt routing 
@@ -61,3 +61,5 @@
 - [Amazon SageMaker Model Cards](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html)
 - [Sagemaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-availability-change.html) is not available anymore, but there are documented ways to obtain the same information it used to produce.
 - [Conformance Pack Sample Templates for AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
+- [Amazon Bedrock Runtime examples using SDK for Python](https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock-runtime_code_examples.html) - notice how the [converse](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html) call is more flexible, allowing you to easily replace a model without any additional code change. If there are model-specific request parameters that are not present in the generic Converse request schema, these can be added using the `additionalModelRequestFields` parameter. 
+- Both Converse and InvokeModel support a streamed call, which reduces the TTFT (time-to-first-token)
