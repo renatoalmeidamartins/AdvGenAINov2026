@@ -4,6 +4,7 @@
 - [Labs and courseware access](https://us-east-1.student.classrooms.aws.training/class/ilt%23a19i4KWVipSdHCdpg5yXs3)
 
 ## Content links
+### Day 1
 - Well-architected framework
     - [AWS](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html), notice how AWS's pillars are about the same as the ones on [GCP's](https://docs.cloud.google.com/architecture/framework) and [Azure's](https://learn.microsoft.com/en-us/azure/well-architected/pillars) well architect framework
     - [Well-architected agent](https://docs.aws.amazon.com/wellarchitected/latest/userguide/agent-getting-started.html)
@@ -26,7 +27,6 @@
 - [Prompt caching in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [LangChain Memory](https://docs.langchain.com/oss/python/concepts/memory)
 - [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
-
 - RAG - Retrieval Augmented Generation
     - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
     - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
@@ -44,3 +44,4 @@
     - [Evaluator prompts used in a RAG evaluation job](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
     - [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock ](https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
     - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
+### Day 2
