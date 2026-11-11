@@ -18,7 +18,7 @@
     - [OpenAI's responses](https://developers.openai.com/api/reference/resources/responses/methods/create)
     - [Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs](https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/)
 - [Deploying and Managing Application Configurations using AWS AppConfig](https://aws.amazon.com/blogs/devops/deploying-and-managing-application-configurations-using-aws-appconfig/)
-- [One way of having adapters - Langchain Messages](https://docs.langchain.com/oss/python/langchain/models#google-gemini)
+- [Langchain](https://docs.langchain.com/oss/python/langchain/models#google-gemini)'s example of how easy it can be to swap model providers.
 - Intelligent prompt routing 
     - [Documentation of current support on Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
     - [IPR: Intelligent Prompt Routing with User-Controlled Quality-Cost Trade-offs](https://arxiv.org/html/2509.06274v3), research article that led to the implementation of Bedrock Intelligent prompt routing
@@ -45,3 +45,19 @@
     - [New RAG evaluation and LLM-as-a-judge capabilities in Amazon Bedrock ](https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
     - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
 ### Day 2
+- Prompt engineering
+    - What is prompt engineering: from [generic AWS doc](https://aws.amazon.com/what-is/prompt-engineering/) and from [Bedrock docs](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html)
+    - https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html
+    - COSTAR prompting framework: [How I Won Singapore's GPT-4 Prompt Engineering Competition](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41/)
+    - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+    - [Streamlining the Correction of Errors process using Amazon Bedrock](https://aws.amazon.com/blogs/mt/streamlining-the-correction-of-errors-process-using-amazon-bedrock/)
+    - [Prompt engineering techniques and best practices: Learn by doing with Anthropic’s Claude 3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-techniques-and-best-practices-learn-by-doing-with-anthropics-claude-3-on-amazon-bedrock/)
+    - [Amazon Bedrock introduces new advanced prompt optimization and migration tool](https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/)
+- [Bedrock flows samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [2025 Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
+- [FuzzyAI Fuzzer](https://github.com/cyberark/fuzzyai) - a powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify jailbreaks and mitigate potential security vulnerabilities in their LLM APIs.
+- [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Responsible AI in AWS](https://aws.amazon.com/ai/responsible-ai/)
+- [Amazon SageMaker Model Cards](https://docs.aws.amazon.com/sagemaker/latest/dg/model-cards.html)
+- [Sagemaker Clarify](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-availability-change.html) is not available anymore, but there are documented ways to obtain the same information it used to produce.
+- [Conformance Pack Sample Templates for AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
