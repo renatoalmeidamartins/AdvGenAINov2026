@@ -63,3 +63,21 @@
 - [Conformance Pack Sample Templates for AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/conformancepack-sample-templates.html)
 - [Amazon Bedrock Runtime examples using SDK for Python](https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock-runtime_code_examples.html) - notice how the [converse](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_Converse.html) call is more flexible, allowing you to easily replace a model without any additional code change. If there are model-specific request parameters that are not present in the generic Converse request schema, these can be added using the `additionalModelRequestFields` parameter. 
 - Both Converse and InvokeModel support a streamed call, which reduces the TTFT (time-to-first-token)
+- [How Automated Reasoning checks in Amazon Bedrock transform generative AI compliance](https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/)
+- ReAct: Synergizing Reasoning and Acting in Language Models: [blog](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/) and [research paper](https://arxiv.org/pdf/2210.03629)
+- Agentic frameworks
+    - [CrewAi quickstart](https://docs.crewai.com/edge/en/quickstart)
+    - [Langchain Agent class](https://docs.langchain.com/oss/python/langchain/agents)
+    - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+    - Strands
+        - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+        - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+- [What is agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
+- Agentcore
+    - [Overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html), pay attention to the image
+    - [Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/), preview in May
+    - [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+    - [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+    - [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
+    - Policy and Evaluations: [Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
+    - Harness: [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
