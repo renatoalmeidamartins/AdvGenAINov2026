@@ -72,6 +72,7 @@
     - Strands
         - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
         - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+        - Strands had a set of [community tools](https://github.com/strands-agents/tools). These were archived, for multiple reasons. The path forward now is through [vended tools](https://strandsagents.com/docs/user-guide/sdk/tools/vended-tools/)
 - [What is agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
 - Agentcore
     - [Overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html), pay attention to the image
@@ -81,3 +82,15 @@
     - [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
     - Policy and Evaluations: [Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
     - Harness: [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
+    - [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
+    - [Add rules to a gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-rules.html)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [MCP server reference implementations](https://github.com/modelcontextprotocol/servers/blob/main/README.md)
+- [An old commit, with a massive list of MCP servers](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
+- [MCP Inspector - A developer tool for inspecting Model Context Protocol (MCP) servers](https://github.com/modelcontextprotocol/inspector)
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP.
+- [Prompts for the Built-in long-term memory extraction strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
+- [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
+- [agentcore cli](https://github.com/aws/agentcore-cli)

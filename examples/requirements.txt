@@ -1,2 +1,3 @@
 boto3
 strands-agents
+strands-agents[web-fetch]
