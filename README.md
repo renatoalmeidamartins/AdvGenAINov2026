@@ -95,6 +95,7 @@
 - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
 - [agentcore cli](https://github.com/aws/agentcore-cli)
 ### Day 3
+- [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
 - [Sagemaker AI multi-model endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-model-endpoints.html)
 - [Alternatives to Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-availability-change.html)
 - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
@@ -104,3 +105,8 @@
     - [AWS-managed transformations](https://docs.aws.amazon.com/transform/latest/userguide/transform-aws-customs.html)
     - [1-year of transform and what it has done](https://aws.amazon.com/blogs/migration-and-modernization/aws-transform-from-migration-to-continuous-modernization/)
     - [Migrate faster with AWS Transform and your AI coding agent](https://aws.amazon.com/blogs/migration-and-modernization/migrate-faster-with-aws-transform-and-your-ai-coding-agent/)
+- [Amazon EventBridge – Event-Driven AWS Integration for your SaaS Applications](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
+- [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility)
+- [Migrating from AWS App Mesh to Amazon ECS Service Connect](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/)
+- [Simplify Modernization of your monolithic application using Amazon VPC Lattice](https://aws.amazon.com/blogs/mt/simplify-modernization-of-your-monolithic-application-using-amazon-vpc-lattice/)
+- [Build your first authenticated agent](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity-getting-started-cognito.html)
