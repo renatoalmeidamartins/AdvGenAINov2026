@@ -2,7 +2,7 @@
 
 ## Labs, courseware, survey...
 - [Labs and courseware access](https://us-east-1.student.classrooms.aws.training/class/ilt%23a19i4KWVipSdHCdpg5yXs3)
-
+- Class survey is done in [myclass](https://myclass.skillbuilder.aws). Clsas is in the "past classes" section. 
 ## Content links
 ### Day 1
 - Well-architected framework
