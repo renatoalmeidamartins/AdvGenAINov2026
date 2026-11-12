@@ -100,3 +100,7 @@
 - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 - [Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training](https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/) - this is currently not available. The custom models in Bedrock support [three strategies](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html): supervised fine-tuning, reinforcement fine-tuning, distillation
 - [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html)
+- [AWS Transform](https://docs.aws.amazon.com/transform/latest/userguide/what-is-service.html) can do application modernization very efficiently. Some more info:
+    - [AWS-managed transformations](https://docs.aws.amazon.com/transform/latest/userguide/transform-aws-customs.html)
+    - [1-year of transform and what it has done](https://aws.amazon.com/blogs/migration-and-modernization/aws-transform-from-migration-to-continuous-modernization/)
+    - [Migrate faster with AWS Transform and your AI coding agent](https://aws.amazon.com/blogs/migration-and-modernization/migrate-faster-with-aws-transform-and-your-ai-coding-agent/)
