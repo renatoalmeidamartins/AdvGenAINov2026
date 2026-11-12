@@ -94,3 +94,9 @@
 - [The new AgentCore runtime: Elastic, optimized, and consistently fast starts](https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/)
 - [Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/)
 - [agentcore cli](https://github.com/aws/agentcore-cli)
+### Day 3
+- [Sagemaker AI multi-model endpoints](https://docs.aws.amazon.com/sagemaker/latest/dg/multi-model-endpoints.html)
+- [Alternatives to Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor-availability-change.html)
+- [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+- [Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training](https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/) - this is currently not available. The custom models in Bedrock support [three strategies](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html): supervised fine-tuning, reinforcement fine-tuning, distillation
+- [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html)
